@@ -10,6 +10,8 @@ My solutions to the assignments in the Deep Learning Specialization offered by D
 
 [Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](ImprovingDeepNeuralNetworks)
 
+Course 3: Structuring Machine Learning Projects
+
 [Course 4: Convolutional Neural Networks](ConvolutionalNeuralNetworks)
 
 [Course 5: Sequence Models](SequenceModels)
